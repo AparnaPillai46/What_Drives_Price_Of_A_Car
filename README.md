@@ -33,7 +33,7 @@ Based on the findings, the following recommendations are proposed for dealership
 
 - **README**: This file contains a summary of findings and recommendations for dealership optimization. [Link to README.md](./README.md)
 
-- **Jupyter Notebook**: The notebook `https://github.com/AparnaPillai46/What_Drives_Price_Of_A_Car/blob/main/practical_application_II_starter/prompt_II.ipynb` includes headings and formatted text to facilitate easy reading and understanding of the analysis.
+- **Jupyter Notebook**: The notebook [Link to README.md](./What_Drives_Price_Of_A_Car/blob/main/practical_application_II_starter/prompt_II.ipynb) includes headings and formatted text to facilitate easy reading and understanding of the analysis.
 
 - **Files**: No unnecessary files are included in the project directory. All directories and files are appropriately named and located for clarity and organization.
 
